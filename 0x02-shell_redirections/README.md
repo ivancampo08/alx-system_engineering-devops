@@ -1,1 +1,1 @@
-my read me shell redirections
+echo "hello world" prints hello_world
